@@ -1,0 +1,22 @@
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.color1 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(0, 134, 134);
+}
+
+.color2 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 179, 37);
+}
+
+h1 {
+    color: cadetblue;
+    background-color: black;
+    text-align: center;
+}
